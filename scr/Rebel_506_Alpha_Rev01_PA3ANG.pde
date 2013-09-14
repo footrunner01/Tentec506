@@ -33,7 +33,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
   This is a simple program to demonstrate a 2 band QRP Amateur Radio Transceiver
   Amateur Programmer Bill Curb (WA4CDM).
   This program will need to be cleaned up a bit!
-  Compiled using the MPIDE for the ChipKit Uno32. 
+  Compiled using the MPIDE for the ChipKit Uno32.  
 
   Prog for ad9834
   Serial timming setup for AD9834 DDS
